@@ -18,5 +18,5 @@ The Currency Converter App is a simple and user-friendly application designed to
 
 - **Currency Conversion:** Convert between different currencies with real-time exchange rates.
 - **User-Friendly Interface:** Intuitive design for a seamless user experience.
-- **Historical Rates:** View historical exchange rates to track currency value trends.
+
 
